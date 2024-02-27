@@ -1,4 +1,4 @@
-SQL Inventory Management Project
+# SQL Inventory Management Project
 
 Overview
 
