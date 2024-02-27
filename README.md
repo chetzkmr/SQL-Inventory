@@ -1,6 +1,6 @@
 # SQL Inventory Management Project
 
-Overview
+## Overview
 
 This repository contains an inventory management project implemented in SQL. The project focuses on managing product orders, stock levels, purchases, customers, products, and suppliers within a fictional business setting.
 Features
