@@ -12,13 +12,13 @@ Features
     Product Management: Track product details, categories, and availability.
     Supplier Management: Maintain information about product suppliers.
 
-Project Structure
+## Project Structure
 
     scripts/: Contains SQL scripts for creating tables, triggers, and procedures.
     docs/: Documentation files, including a database schema diagram.
     examples/: Sample SQL queries and commands for interacting with the database.
 
-Database Schema
+## Database Schema
 
 The project utilizes the following tables:
 
@@ -29,7 +29,7 @@ The project utilizes the following tables:
     PRODUCT: Stores details about products, including categories and availability.
     SUPPLIER: Maintains information about product suppliers.
 
-Getting Started
+## Getting Started
 
     Database Setup:
         Execute the SQL scripts in the scripts/ folder to set up the database schema.
@@ -40,11 +40,11 @@ Getting Started
     Usage Examples:
         Refer to the examples for sample SQL queries to interact with the database.
 
-Contributions
+## Contributions
 
 Contributions are welcome! Feel free to submit issues, feature requests, or pull requests to enhance the project.
 
-Acknowledgments:
+## Acknowledgments:
 
 Thanks to contributors and the open-source community for their support and feedback.
 
