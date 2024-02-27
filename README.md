@@ -43,3 +43,9 @@ Getting Started
 Contributions
 
 Contributions are welcome! Feel free to submit issues, feature requests, or pull requests to enhance the project.
+
+Acknowledgments:
+
+Thanks to contributors and the open-source community for their support and feedback.
+
+The SQL Inventory Management Project is designed to be a flexible and scalable solution for businesses seeking an efficient and organized system to manage their inventory and related processes.
